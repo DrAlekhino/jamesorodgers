@@ -1,0 +1,5 @@
+@import "tailwindcss";
+ nav>ul>li>a{
+  color: navy !important;
+ }
+ 
